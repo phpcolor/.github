@@ -1,4 +1,8 @@
-![PHPColor](https://github.com/phpcolor/.github-private/assets/1359581/24310415-289c-41ad-911c-efa937307a87)
-
-
+<p align="center">
+<img src="https://phpcolor.dev/phpcolor.svg" alt="PHPColor logo" height="50">
+</p>
+<p align="center">
 Work in progress - Coming soon
+</div>
+
+
